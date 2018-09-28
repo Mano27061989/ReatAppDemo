@@ -18,3 +18,6 @@ How to Run:
    npm run start
 7) in browser: http://localhost:3000/ for GUI
 
+Demo UI:
+
+![alt text](https://github.com/Mano27061989/ReatAppDemo/blob/master/Screen%20Shot%202018-09-28%20at%207.18.34%20PM.png)
